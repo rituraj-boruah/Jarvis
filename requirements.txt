@@ -1,0 +1,11 @@
+pyttsx3
+SpeechRecognition
+keyboard
+wolframalpha
+pyautogui
+requests
+openai
+python-decouple
+wikipedia
+beautifulsoup4
+psutil
